@@ -1,4 +1,4 @@
-####This Git repo contains COVID-19 data visualization using DASH python library.
+### This Git repo contains COVID-19 data visualization using DASH python library.
 
 ### Pre-Requisites
 1. docker
