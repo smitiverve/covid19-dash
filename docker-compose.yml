@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  covid-dash:
+    build:
+      context: .
+    image: covid-dash
+    container_name: covid-dash
+    ports:
+      - "8050:8050"
+    restart: unless-stopped
